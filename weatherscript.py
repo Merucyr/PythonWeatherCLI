@@ -1,5 +1,4 @@
 import requests
-import socket
 from datetime import datetime
 
 # Your API Key for IPStack
